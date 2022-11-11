@@ -1,0 +1,12 @@
+{
+  "name": "future",
+  "version": "1.0.0",
+  "description": "我们是一个开放的组织,由BOLINGALAXY™提供技术支持,致力于寻找学习资源的收集及整理。",
+  "main": "config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": ""
+}
